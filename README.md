@@ -1,2 +1,2 @@
-# antiscience.github.io
+# antiscience
 hi
