@@ -31,7 +31,7 @@ social:
     "https://twitter.com/anti_sci"
   
 minimal_mistakes_skin: "contrast"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
