@@ -19,7 +19,15 @@ url: "https://anti.science"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   anti.science
-twitter_username: "anti_sci"
+twitter:
+  username: "anti_sci"
+  
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    "https://twitter.com/anti_sci"
+  
 minimal_mistakes_skin: "contrast"
 search: true
 
