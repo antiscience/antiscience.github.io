@@ -1,10 +1,6 @@
 ---
-layout: post
-title: "About"
-author: ""
 permalink: /about/
+title: "About"
 ---
-
-
 
 Thanks for reading!
