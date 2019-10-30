@@ -13,8 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+locale: "en-US"
 title: anti.science
-subtitle: "Version -27.85e-72"
+subtitle: "Version 27.85e-72"
 url: "https://anti.science"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
