@@ -1,1 +1,27 @@
 remote_theme: chesterhow/tale
+
+# Site settings
+title:          Antiscience
+description:    "None"
+baseurl:        ""
+url:            "https://anti.science"
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         antiscience
+  url:          https://anti.science
+  email:        mail@@anti.science
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+
+# Permalinks
+permalink:      /:title
+paginate:       5
+
