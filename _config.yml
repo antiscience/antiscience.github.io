@@ -19,8 +19,7 @@ url: "https://anti.science"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   anti.science
-twitter_username: 
-github_username: 
+twitter_username: "anti-science"
 minimal_mistakes_skin: "contrast"
 search: true
 
