@@ -4,12 +4,12 @@
 
 @charset "utf-8";
 
-footer.page__meta 
+.page .page__inner-wrap .page__meta
 {
-  background: #f4f4f4;
+    background: #f4f4f4;
     padding: 1em;
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 0;
+    margin-bottom: 2em;
 }
 
 
