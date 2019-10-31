@@ -12,5 +12,22 @@ footer.page__meta
     margin-bottom: 1em;
 }
 
+.page__taxonomy strong 
+{
+    margin-right: 0;
+}
+
+.page__taxonomy-item 
+{
+    display: inline-block;
+    margin-right: 5px;
+    margin-bottom: 8px;
+    padding: 5px 10px;
+    font-size: 1.2em;
+    text-decoration: inherit;
+    border: none;
+    border-radius: none;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
