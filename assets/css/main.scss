@@ -4,7 +4,12 @@
 
 @charset "utf-8";
 
-$link-color: red;
+.page__meta 
+{
+  background: #f4f4f4;
+    padding: 1em;
+    margin: 1em 0;
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
