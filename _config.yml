@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 locale: "en-US"
-title: "ANTI.SCIENCE""
+title: "ANTI.SCIENCE"
 masthead_title: ""
 logo: "/assets/images/logo.png"
 subtitle: 
