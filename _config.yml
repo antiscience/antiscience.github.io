@@ -93,7 +93,7 @@ defaults:
       comments: false
       share: true
       related: false
-      excerpt_separator: <!--more-->
+      excerpt_separator: "<!--more-->"
   # _pages
   - scope:
       path: "_pages"
