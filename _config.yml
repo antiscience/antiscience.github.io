@@ -94,9 +94,6 @@ defaults:
       share: true
       related: false
       excerpt_separator: "<!--more-->"
-      header:
-        overlay_color: "#222"
-        show_overlay_excerpt: false
   # _pages
   - scope:
       path: "_pages"
