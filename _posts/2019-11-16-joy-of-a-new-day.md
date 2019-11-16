@@ -2,6 +2,8 @@
 title: "Радость нового дня"
 categories:
   - Decadence
+excerpt: "Радость Нового Дня.  
+Всегда внезапна."
 header:
   og_image: /assets/images/newday.jpg
   teaser: /assets/images/newday.jpg
