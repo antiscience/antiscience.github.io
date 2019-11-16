@@ -7,7 +7,15 @@ header:
   teaser: /assets/images/newday.jpg
 ---
 
-<figure class="align-center">
-  <img src="/assets/images/newday.jpg" alt="The joy of a new day">
-  <figcaption>The joy of a new day.</figcaption>
-</figure>
+The joy of a new day
+====================
+
+Радость Нового Дня.
+Всегда внезапна.
+Всегда с тобой.
+Не сбежишь от Радости Нового Дня.
+
+![The joy of a new day][newday]
+
+[newday]: https://anti.science/assets/images/newday.jpg
+
