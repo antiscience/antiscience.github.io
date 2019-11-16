@@ -15,7 +15,6 @@ The joy of a new day
 Всегда с тобой.  
 Не сбежишь от Радости Нового Дня.  
 
-![The joy of a new day][newday]
-
-[newday]: https://anti.science/assets/images/newday.jpg
-
+<a href="https://anti.science/assets/images/newday.jpg">
+  <img src="/assets/images/newday.jpg" alt="The joy of a new day">
+</a>
