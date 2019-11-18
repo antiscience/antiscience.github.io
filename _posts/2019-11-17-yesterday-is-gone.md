@@ -9,14 +9,12 @@ header:
   teaser: /assets/images/wall1.jpg
 ---
 
-Yesterday's gone
-====================
 
-[ Meta-Reality No.17 ]
-[ Yesterday's gone. ]
-2019-11-16 2:14AM (approx.)
+[ Meta-Reality No.17 ]  
+[ Yesterday's gone. ]  
+2019-11-16 2:14AM (approx.)  
 
-Current mood: interval sleepin
+Current mood: interval sleepin  
 
 <a href="https://anti.science/assets/images/wall1.jpg">
   <img src="/assets/images/wall1.jpg" alt="Yesterday's gone">
