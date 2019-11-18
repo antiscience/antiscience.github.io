@@ -10,9 +10,11 @@ header:
 ---
 
 
-[ Meta-Reality No.17 ]  
-[ Yesterday's gone. ]  
-2019-11-16 2:14AM (approx.)  
+**
++ Meta-Reality No.17  
++ Yesterday's gone  
++ 2019-11-16 2:14AM (_approx._)  
+**
 
 Current mood: interval sleepin  
 
