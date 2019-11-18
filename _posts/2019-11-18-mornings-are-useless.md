@@ -18,5 +18,5 @@ header:
 
 
 <a href="https://anti.science/assets/images/hallway.gif">
-  <img src="/assets/images/modem1.gif" alt="Mornings are useless">
+  <img src="/assets/images/hallway.gif" alt="Mornings are useless">
 </a>
