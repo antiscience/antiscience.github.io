@@ -10,13 +10,12 @@ header:
 ---
 
 
-**
-+ Meta-Reality No.17  
-+ Yesterday's gone  
-+ 2019-11-16 2:14AM (_approx._)  
-**
+__+ Meta-Reality No.17__  
+__+ Yesterday's gone__  
+__+ 2019-11-16 2:14AM (_approx._)__  
 
-Current mood: interval sleepin  
+
+Current mood: **_interval sleepin_**  
 
 <a href="https://anti.science/assets/images/wall1.jpg">
   <img src="/assets/images/wall1.jpg" alt="Yesterday's gone">
