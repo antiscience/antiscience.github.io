@@ -10,11 +10,9 @@ header:
 ---
 
 
-+ __Meta-Reality No.17__  
-+ __Yesterday's gone__  
-+ __2019-11-16 2:14AM (_approx._)__  
-
-
+__Meta-Reality No.17__  
+__Yesterday's gone__  
+__2019-11-16 2:14AM (_approx._)__  
 Current mood: **_interval sleepin_**  
 
 <a href="https://anti.science/assets/images/wall1.jpg">
