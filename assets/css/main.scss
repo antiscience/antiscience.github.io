@@ -2,6 +2,9 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
 @charset "utf-8";
 
 .masthead
@@ -10,7 +13,7 @@
     border-bottom: none;
 }
 
-.masthead .greedy-nav
+.greedy-nav
 {
     background: transparent;
 }
@@ -23,9 +26,6 @@
     margin-bottom: 2em;
 }
 
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
 
 a.page__taxonomy-item 
 {
