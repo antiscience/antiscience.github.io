@@ -118,3 +118,5 @@ analytics:
   google:
     tracking_id: "UA-7870571-23"
     anonymize_ip: false
+
+og_image: "/assets/images/og.jpg"
