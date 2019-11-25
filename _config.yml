@@ -110,3 +110,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+google_site_verification:
+
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-7870571-23"
+    anonymize_ip: false
