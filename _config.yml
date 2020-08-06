@@ -37,7 +37,7 @@ search: false
 
 # Build settings
 markdown: kramdown
-# remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: none # /:categories/:title/
 paginate: 10 # amount of posts to show
